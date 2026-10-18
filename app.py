@@ -1,6 +1,7 @@
 
 import streamlit as st
-
+import os
+st.image("IMG_0724.jpg")
 # =========================
 # CẤU HÌNH TRANG WEB
 # =========================
